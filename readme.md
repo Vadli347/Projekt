@@ -32,7 +32,7 @@ Before you begin, ensure you have the following prerequisites:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/.git
+   git clone https://github.com/Vadli347/Projekt.git
 
 2. Open the project in your preferred text editor.
 3. Launch the `index.html` file in a web browser.
@@ -48,7 +48,7 @@ Before you begin, ensure you have the following prerequisites:
 
 ## Contributing 
 
-Contributions, issues, and feature requests are welcome! Feel free to check the [issues page](/issues).
+Contributions, issues, and feature requests are welcome! Feel free to check the issue page.
 
 ## Show your support 
 
@@ -59,3 +59,4 @@ Give a ⭐️ if you like this project!
 
 
 This project is **free to use** and does not contains any license.
+
